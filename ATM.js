@@ -1,6 +1,6 @@
 <html>
 <head> 
-<title>Atm-exercise</title>
+<title>Atm</title>
 </head>
 <body> 
 <script>
