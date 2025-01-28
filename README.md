@@ -1,8 +1,14 @@
-Atm is digital banking system 
-that allows users to register 
-with their credentials and after 
-they have been registered inside the
-banking system users can withdraw and
-deposit money at any time.
+# ATM - Digital Banking System
 
-Atm was created  with JavaScript and html.
+Welcome to the ATM repository, a comprehensive digital banking system designed for seamless financial transactions. This project allows users to:
+
+- **Register with their credentials**: Securely create an account within the banking system.
+- **Withdraw and deposit money**: Perform financial transactions at any time with ease.
+
+### Key Features:
+- **User Registration**: Simple and secure user registration process.
+- **Financial Transactions**: Reliable and instant withdrawal and deposit functionalities.
+
+### Technology Stack:
+- **JavaScript**
+- **HTML**
